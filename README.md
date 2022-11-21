@@ -27,4 +27,4 @@ Aplicação de um projeto de receitas, no qual o usuario consegue pesquisar entr
 - https://developer.mozilla.org/pt-BR/docs/Web/JavaScript
 
 ## Direitos Autorais:
-Este projeto foi desenvolvido para fins de aprendizado por Lucas Coelho dos Santos Reis. É permitido baixar ou clonar o repositório para fins de estudo, porém não é permitida a publicação de cópias totais ou parciais do mesmo. Esta isenção de responsabilidade não abrange bibliotecas e dependências, que estão sujeitas às suas respectivas licenças.
+Este projeto foi desenvolvido para fins de aprendizado por Lucas Coelho, Rafael Brandão, Juliana Reitz e Douglas Alves. É permitido baixar ou clonar o repositório para fins de estudo, porém não é permitida a publicação de cópias totais ou parciais do mesmo. Esta isenção de responsabilidade não abrange bibliotecas e dependências, que estão sujeitas às suas respectivas licenças.
