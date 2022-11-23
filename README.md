@@ -4,6 +4,7 @@
 Aplicação de um projeto de receitas, no qual o usuario consegue pesquisar entre receitas de comidas e bebidas, além de favoritar, compartilhar, marcar o checklist com os itens já preparados e muito mais!
 
 ## Stacks e habilidades utilizadas
+- Metodologias ágeis 
 - Manipulação de API
 - HTML
 - CSS
