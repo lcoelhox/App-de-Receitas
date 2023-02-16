@@ -1,7 +1,7 @@
 # Boas-vindas ao repositório App de Receitas! :spaghetti: :birthday:
 
 ## Sobre
-Aplicação de um projeto de receitas, no qual o usuario consegue pesquisar entre receitas de comidas e bebidas, além de favoritar, compartilhar, marcar o checklist com os itens já preparados e muito mais! 
+Aplicação de um projeto de receitas, desenvolvido com metodologias ágeis, React, HTML, React Hooks, Context, RTL e consumindo API.
 
 ## Stacks e habilidades utilizadas
 - Metodologias ágeis 
